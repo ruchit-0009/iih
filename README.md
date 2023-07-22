@@ -24,6 +24,11 @@ Add Required Data in Table
 php artisan db:seed
 ```
 
+Storage Link
+```
+php artisan storage:link
+```
+
 
 
 
